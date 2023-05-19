@@ -8,7 +8,7 @@ Hi, I’m KIRA 17-year-old boy from the Philippines. I'm interested in programmi
  - C++
  
 ### Collaboration
- ####You can approach me by sending email.
+You can approach me by sending email.
  - mandie121605@gmail.com
 
 Since I'm a student i cant read all of your email due to my study
