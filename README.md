@@ -1,13 +1,13 @@
 # KIRA
 
 Hi, I’m KIRA 17-year-old boy from the Philippines. I'm interested in programming.
-## My Skills
+### My Skills
  - HTML
  - CSS
  - JAVASCRIPT
  - C++
- - 
-## Collaboration
+ 
+### Collaboration
  You can approach me by sending email.
  - You can Email me at mandie121605@gmail.com or yoshikagek304@gmail.com.
 
