@@ -1,6 +1,6 @@
 # KIRA
 
-Hi, I’m KIRA 16-year-old boy from the Philippines. I'm interested in programming.
+Hi, I’m KIRA 17-year-old boy from the Philippines. I'm interested in programming.
 ## My Skills
  - HTML
  - CSS
